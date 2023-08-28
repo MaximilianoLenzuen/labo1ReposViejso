@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594041796 source:c:\users\maxi lenzuen\desktop\examen 6-7\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
